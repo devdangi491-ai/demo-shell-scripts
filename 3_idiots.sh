@@ -12,3 +12,4 @@ echo "3 idiots ka villain hai $villain"
 # shell / environment variables bhi hot:e hai
 
 echo "current logged in user $user"
+# test
