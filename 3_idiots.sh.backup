@@ -1,4 +1,10 @@
 #!/bin/bash
+
+<< help
+This is a shell script to take bakups
+can also be used with cron
+help
+
 #user defined variable
 
 
